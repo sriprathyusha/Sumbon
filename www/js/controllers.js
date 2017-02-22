@@ -40,8 +40,8 @@ angular.module('starter.controllers', [])
 
 });
 
-function MainCtrl($scope,$ionicSideMenuDelegate){
-  $scope.toggleRightSideMenu= function(){
-    $ionicSideMenuDelegate.toggleLeft();
-  };
-};
+// function MainCtrl($scope,$ionicSideMenuDelegate){
+//   $scope.toggleRightSideMenu= function(){
+//     $ionicSideMenuDelegate.toggleLeft();
+//   };
+// };

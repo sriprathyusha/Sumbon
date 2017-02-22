@@ -1,0 +1,4 @@
+git status // to know the changes in the file or list of files with the changes
+git add .
+git commit -m "Message to commit "
+git push origin master
